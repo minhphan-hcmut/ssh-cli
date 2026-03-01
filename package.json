@@ -1,0 +1,12 @@
+{
+  "name": "ssh-cli",
+  "version": "1.0.0",
+  "description": "A powerful, MobaXterm-inspired SSH session manager for the terminal. Built with Node.js, `ssh-cli` brings structured session management, encrypted credential storage, and a multi-tab experience (via `tmux` integration) to your CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
